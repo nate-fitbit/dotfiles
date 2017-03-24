@@ -1,0 +1,10 @@
+  "installed_packages":
+  [
+    "Dockerfile Syntax Highlighting",
+    "Git",
+    "GitGutter",
+    "Package Control",
+    "Puppet",
+    "SyncedSideBar",
+    "TrailingSpaces"
+  ]
